@@ -1,0 +1,29 @@
+.getTouchs__container{
+    display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin: 10px;
+padding: 30px;
+}
+.getTouch__icon{
+    font-size: 90px !important;
+    align-items: center !important;
+    text-align: center !important;
+    color: #00cbf0;
+    padding-top: 20px;
+}
+.getToch__endPoint{
+ width: 100%;
+ height: 55px;
+ display: flex;
+ text-align: center;
+ align-items: center;
+justify-content: center;
+color: white;
+background-color: #132744;
+}
+.getTouch__textButton{
+    cursor: pointer;
+    color:#00cbf0 ;
+}

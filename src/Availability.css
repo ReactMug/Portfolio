@@ -1,0 +1,9 @@
+.availability{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+.availability > h3{
+    font-size: 14px;
+    font-weight: 500;
+}

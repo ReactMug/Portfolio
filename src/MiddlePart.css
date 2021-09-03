@@ -1,0 +1,60 @@
+.middlepart{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+    margin:10px 5px;
+}
+.middle__text{
+    color: white;
+    padding: 30px;
+    margin-top: 25px;
+    align-items: center;
+    padding-top: 10px;
+}
+.middle__portfolio {
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+/* ......... */
+
+    font-size: 29px;
+    font-weight: 300;
+    letter-spacing: 2;
+    padding-top: 10px;
+}
+.middle__Name{
+    color: white;
+    position: absolute;
+    top: 44%;
+    left: 23%;
+ -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+/* .................. */
+    font-size: 35px;
+    
+}
+.middle__icons{
+    color: white;
+    position: absolute;
+    top: 65%;
+    left:17%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    /* ............ */
+}
+.middle__icons :hover{
+    border-radius: 3px;
+    background-color: #00cbf0;
+}
+.middle__Name >h3{
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 10px;
+}

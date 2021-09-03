@@ -1,0 +1,12 @@
+.Portfolio{
+    text-align: center;
+    color: white;
+  
+    margin: 30px;
+}
+.Portfolio > h1{
+    font-size: 60px;
+}
+.Portfolio >span{
+    font-size: 12px;
+}

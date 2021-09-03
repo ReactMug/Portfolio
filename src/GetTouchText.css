@@ -1,0 +1,24 @@
+.getTouchText{
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+.getTouch__text > h1{
+    font-size: 50px;
+    margin-top: 70px;
+    }
+.getTouch__text > p {
+        font-size: 13px;
+    }
+.getTouch__Button{
+        border: 1px solid #00cbf0;
+        background-color: transparent;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 3px;
+        margin-top: 40px;
+      }
+.getTouch__Button:hover{
+          background-color: #00cbf0;
+    }

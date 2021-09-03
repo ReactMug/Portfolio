@@ -1,0 +1,30 @@
+.getTouch{
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+   background-color: #132744;
+   margin: 10px;
+}
+.getTouch:hover{
+    box-shadow: #0498b3 0px 0px 7px 0px;
+    border-bottom: 3px solid #0498b3;
+}
+.getTouch__PerInfo >h3{
+    font-size: 14;
+    padding-top: 10px;
+}
+.getTouch__subtitle {
+    padding-top: 10px;
+    font-size:5;
+    letter-spacing: 2;
+}
+.getTouch__PerInfo{
+    height: 210px;
+    width: 320px;
+    border-radius: 5px;
+    object-fit: contain;
+    cursor: pointer;   
+    flex: 1;
+    justify-content: space-evenly;
+}

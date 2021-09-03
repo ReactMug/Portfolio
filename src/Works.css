@@ -1,0 +1,15 @@
+.works{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 97%;
+    margin:10px 4px;
+}
+.works::-webkit-scrollbar {
+    display: none;
+  }
+  .works__button{
+    text-align: center;
+    align-items: center;
+    justify-content: center;  
+  }

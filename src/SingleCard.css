@@ -1,0 +1,13 @@
+.singleCard{
+    margin: 0 25px;
+}
+.singleCard__topPart{
+    display: flex;
+    justify-content: center;
+    white-space: pre-line;
+}
+.singleCard__bottomPart{
+    display: flex;
+    justify-content: center;
+    white-space: pre-line;
+}
